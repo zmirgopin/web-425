@@ -1,0 +1,27 @@
+.navbar-nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.nav-item{
+  float: left;
+}
+.nav-link{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.row{
+  display: flex;
+}
+.col-sm-4{
+  flex: 50%;
+}
+.col-sm-8{
+  flex: 50%;
+}
