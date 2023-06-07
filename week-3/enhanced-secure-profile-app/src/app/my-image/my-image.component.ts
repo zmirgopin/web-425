@@ -1,7 +1,7 @@
 /**
  * Title: my-image.component.ts
  * Author: Zahava Gopin
- * Date: 5 June 2023
+ * Date: 6 June 2023
  * Description: My image component
  */
 
@@ -18,5 +18,4 @@ export class MyImageComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }

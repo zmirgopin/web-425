@@ -1,7 +1,7 @@
 /**
  * Title: app.component.ts
  * Author: Zahava Gopin
- * Date: 5 June 2023
+ * Date: 30 May 2023
  * Description: App component
  */
 
@@ -13,5 +13,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Enhanced Profile App';
+
+  assignment: string = 'Secure Profile App';
 }
